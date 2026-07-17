@@ -7,47 +7,73 @@ A collection of QA concepts, testing types, STLC, and interview preparation mate
 
 | Topic | Description |
 |-------|-------------|
+| `SDLC-Models/` | Waterfall, Agile, V-Model, Spiral, Prototyping |
 | `STLC/` | Software Testing Life Cycle notes |
-| `Testing-Types/` | Manual, Automation, API, Performance testing concepts |
-| `Bug-Lifecycle/` | Defect life cycle & severity/priority guide |
-| `Interview-Prep/` | Common QA interview questions & answers |
-| `Tools-Guide/` | Jira, Postman, JMeter, Appium setup & usage notes |
+| `Testing-Documents/` | Test Plan, Strategy, RTM, Coverage, Closure |
+| `Testing-Types/` | Functional, Non-Functional, Regression, Smoke & more |
+| `Testing-Techniques/` | BVA, EP, Decision Table, State Transition |
+| `Mobile-Testing/` | Functional, UI, Compatibility, Network, Performance |
+| `Agile-Scrum/` | Roles, Ceremonies, TDD, BDD, POM |
+| `Database-SQL/` | DDL/DML/DCL, Joins, ACID, Normalization |
+| `API-Testing/` | REST vs SOAP, HTTP methods, status codes |
+| `Selenium/` | Locators, Waits, Frameworks, Exception Handling |
+| `JMeter/` | Architecture, Distributed Testing, Master-Slave |
+| `Interview-Prep/` | QA questions + Aptitude & logical puzzles |
 
 ## 🧠 Topics Covered
 
+### 🔄 SDLC Models
+- Waterfall, Incremental, V-Model, Agile, Spiral, Prototyping
+
 ### 📋 STLC — Software Testing Life Cycle
-- Requirement Analysis
-- Test Planning
-- Test Case Design
-- Test Execution
-- Bug Reporting
-- Test Closure
+- Requirement Analysis, Test Planning, Test Case Development
+- Test Execution, Defect Reporting & Test Closure
+
+### 📄 Testing Documents
+- Test Plan, Test Strategy, RTM
+- Test Coverage & Test Closure Report
 
 ### 🧪 Testing Types
-- Functional Testing
-- Regression Testing
-- Smoke & Sanity Testing
-- UAT Testing
-- Exploratory Testing
-- API Testing
-- Performance Testing
-- Automation Testing
+- Functional, Non-Functional, Regression
+- Smoke, Sanity, UAT, Performance, Security & more
 
-### 🐛 Bug Lifecycle
-- New → Assigned → Open → Fixed → Retest → Closed
-- Severity vs Priority
-- Bug report best practices
+### 🎯 Testing Techniques
+- Boundary Value Analysis (BVA)
+- Equivalence Partitioning (EP)
+- Decision Table, State Transition, Error Guessing
 
-### 🤖 Automation Concepts
-- Page Object Model (POM)
-- TestNG framework
-- Appium architecture
-- Cypress basics
+### 📱 Mobile Testing Roadmap
+- Functional, UI/Responsiveness, Compatibility
+- Network, Performance & Security Testing
 
-### 🎯 Interview Preparation
+### 🏃 Agile & Scrum
+- Roles, Ceremonies, Velocity, Backlogs
+- TDD, BDD, Page Object Model (POM)
+
+### 🗄️ Database & SQL
+- DDL / DML / DCL
+- Joins, Constraints, Normalization
+- Transactions & ACID Properties
+
+### 🌐 API Testing
+- REST vs SOAP
+- HTTP Methods & Status Codes
+- Tools & Best Practices
+
+### 🤖 Selenium WebDriver
+- Locators & Waits
+- Frameworks: POM, Data-Driven, Hybrid
+- Exception Handling
+
+### ⚡ JMeter
+- Architecture & Listeners
+- Distributed Testing
+- Correlation & Master-Slave Setup
+
+### 🧩 Interview Preparation
 - Common QA interview questions
 - Scenario based questions
-- Tool specific questions
+- Aptitude & logical puzzles
 
 ## 🛠️ Tools Covered
 - **Bug Tracking:** Jira
