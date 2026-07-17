@@ -1,6 +1,6 @@
 # 📚 QA Learning Notes
 
-Personal study notes by **Zarnab** — QA Engineer with 4+ years of experience.
+Personal study notes by **Zarnab** QA Engineer with 4+ years of experience.
 A collection of QA concepts, testing types, STLC, and interview preparation material.
 
 ## 📁 Contents
@@ -57,6 +57,6 @@ A collection of QA concepts, testing types, STLC, and interview preparation mate
 - **Test Management:** TestRail
 
 ## 💡 Why This Repo?
-These notes reflect my hands-on learning journey as a QA Engineer —
+These notes reflect my hands-on learning journey as a QA Engineer
 combining theoretical knowledge with practical experience across
 multiple real-world projects.
